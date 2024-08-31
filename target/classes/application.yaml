@@ -1,0 +1,19 @@
+spring:
+    profiles:
+        active: default
+    http:
+        encoding:
+        charset: UTF-8
+        enabled: true
+        force: true
+    session:
+        timeout: 45m
+    jpa.hibernate.ddl-auto: update   
+    datasource:
+     url: jdbc:mysql://localhost:3306/ragnarok
+     username: root
+     password: admin
+     driver-class-name: com.mysql.cj.jdbc.Driver
+     hikari:
+      connection-timeout: 60000
+      maximum-pool-size: 5
