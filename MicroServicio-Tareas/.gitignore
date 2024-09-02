@@ -1,0 +1,8 @@
+#Archivo de entorno de python
+/env
+
+#Cache de objetois de python
+/pycache
+
+#Extensiones de vs
+/.vscode
