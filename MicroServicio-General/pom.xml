@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>es.eliasdev</groupId>
 	<artifactId>multiherramienta</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>multiherramienta</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Microservicio general que guarda los usuarios y configuración general de la app</description>
 	<url/>
 	<licenses>
 		<license/>

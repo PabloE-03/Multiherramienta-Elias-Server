@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>es.eliasdev</groupId>
-	<artifactId>multiherramienta</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>multiherramienta</name>
-	<description>Demo project for Spring Boot</description>
+	<artifactId>multipesca</artifactId>
+	<version>1.0.0</version>
+	<name>multipesca</name>
+	<description>Microservicio encargado de gestionar las acciones que hace el usuario sobre el apartado de pesca</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -59,16 +59,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.apache.logging.log4j</groupId>
-			<artifactId>log4j-api</artifactId>
-			<version>2.23.1</version>
-		</dependency>
-		<dependency>
-		    <groupId>io.github.cdimascio</groupId>
-		    <artifactId>java-dotenv</artifactId>
-		    <version>5.2.2</version>
 		</dependency>
 	</dependencies>
 
